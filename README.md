@@ -35,7 +35,6 @@ WeatherApp/
 └── README.md         # Documentation
 
 
-
 🎯 Usage
 
 Enter a city name in the search bar.
