@@ -11,7 +11,7 @@ It allows users to search for any city and view the current weather details in r
 - 🌡 Displays **temperature, humidity, wind speed, and conditions**  
 - 🎨 Clean & responsive design using CSS  
 - 🔄 Real-time data fetched from **Weather API**  
-- 📱 Mobile-friendly layout  
+- 📱 Mobile-friendly layout.
 
 ---
 
