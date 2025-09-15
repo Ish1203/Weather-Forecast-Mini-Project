@@ -1,7 +1,7 @@
 # 🌦️ Weather Forecast Mini Project
 
 A simple and responsive **Weather Forecast Web App** built using **HTML, CSS, and JavaScript**, powered by a **Weather API**.  
-It allows users to search for any city and view the current weather details in real time.  
+It allows users to search for any city and view the current weather details in real time.
 
 ---
 
