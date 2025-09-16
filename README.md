@@ -15,7 +15,7 @@ It allows users to search for any city and view the current weather details in r
 
 ---
 
-## 🛠️ Technologies Used  
+## 🛠️ Technologies Used 
 
 - **HTML5** – Structure of the app  
 - **CSS3** – Styling and responsiveness  
