@@ -5,7 +5,7 @@ It allows users to search for any city and view the current weather details in r
 
 ---
 
-## 🚀 Features  
+## 🚀 Features
 
 - 🌍 Search weather by **city name**  
 - 🌡 Displays **temperature, humidity, wind speed, and conditions**  
